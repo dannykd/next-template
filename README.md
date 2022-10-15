@@ -1,18 +1,8 @@
-# Next.js starter template
+# Next.js Template with Layout components
 
-A starter template for my Next.js projects because I am lazy 🙂
+This is a template for rapidly starting Next.js projects with built in components relating to page layouts. Inspired by @clxmente's template with a few added dependencies + a components/layout folder that holds components.
 
-## How to use
-```
-pnpm create next-app YOUR_PROJECT_NAME -e https://github.com/clxmente/next
-# or
-yarn create next-app YOUR_PROJECT_NAME -e https://github.com/clxmente/next
-# or
-npx create-next-app YOUR_PROJECT_NAME -e https://github.com/clxmente/next
-```
+# Instructions
 
-## Features
-- Tailwind CSS
-- Typescript
-- Prettier with the tailwind plugin to auto format class names
-- thats about it 🙂
+Start a new Next project following with:
+
