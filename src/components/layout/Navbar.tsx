@@ -24,7 +24,7 @@ const Navbar: FC<NavbarProps> = () => {
           <h1 className="text-2xl font-bold text-black">INSERT_APP_NAME</h1>
         </Link>
         <Menu as="div" className="relative right-0">
-          <Menu.Button>
+          <Menu.Button as="div" className="focus:outline-none">
             <Bars3Icon className="h-8 w-8 "></Bars3Icon>
           </Menu.Button>
           <Transition
@@ -38,7 +38,8 @@ const Navbar: FC<NavbarProps> = () => {
           >
             <Menu.Items
               as="div"
-              className="absolute right-0 flex w-48 flex-col rounded-lg  border border-gray-400 bg-gray-200 p-2 text-gray-700"
+              className="absolute right-0 flex w-48 flex-col rounded-lg  border border-gray-400 
+              bg-gray-200 p-2 text-gray-700 focus:outline-none"
             >
               <Menu.Item>
                 {({ active }) => (
