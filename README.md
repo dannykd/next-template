@@ -26,11 +26,12 @@ This is a template for rapidly starting Next.js projects with built in component
 
 2. Change placeholder strings. If you CRTL-F "INSERT" you should see all the string that should be changed.
 
-        Ex. 
 
-        ``<<Link href="/INSERT_PAGE_PATH">INSERT_PAGE_NAME</Link>``
-        //should change to
-        ``<Link href="/Home">/home</Link>``
+        <Link href="/INSERT_PAGE_PATH">INSERT_PAGE_NAME</Link> 
+        
+        Should be changed to ⤵️
+        
+        <Link href="/Home">/home</Link>
         
         List of strings to change/remove: **INSERT_APP_NAME** (2x), **INSERT_PAGE_NAME** (4x), **INSERT_PAGE_PATH** (4x) in components/layout
 
