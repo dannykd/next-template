@@ -46,7 +46,7 @@ const Navbar: FC<NavbarProps> = () => {
                     href="/INSERT_PAGE_PATH"
                     pageName="INSERT_PAGE_NAME"
                   >
-                    <>{/* feel free to add an icon here */}</>
+        
                   </NextLink>
                 )}
               </Menu.Item>
@@ -57,7 +57,7 @@ const Navbar: FC<NavbarProps> = () => {
                     href="/INSERT_PAGE_PATH"
                     pageName="INSERT_PAGE_NAME"
                   >
-                    <>{/* feel free to add an icon here */}</>
+                
                   </NextLink>
                 )}
               </Menu.Item>

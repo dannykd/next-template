@@ -1,13 +1,14 @@
 import { FC } from "react";
 import Link from "next/link";
+import { ReactNode } from 'react';
 
 interface NextLinkProps {
   href: string;
-  children?: JSX.Element;
+  children?: ReactNode;
   pageName: string;
 }
 
-const NextLink: FC<NextLinkProps> = ({ href, children, pageName }) => {
+const NextLink: FC<NextLinkProps> = ({ href, children=<></>, pageName }) => {
   return (
     <Link href={href}>
       <a href={href}>
