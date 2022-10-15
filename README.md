@@ -4,7 +4,7 @@ This is a template for rapidly starting Next.js projects with built in component
 
 ## What you'll get (a fully formatted page with a responsive navigation bar and footer)
 
-<a href="https://ibb.co/Gc0VYpJ"><img src="https://i.ibb.co/Yp3tnQW/Screen-Shot-2022-10-14-at-10-28-30-PM.png" alt="Screen-Shot-2022-10-14-at-10-28-30-PM" border="0"></a>
+<a href="https://ibb.co/Gc0VYpJ"><img width="300" src="https://i.ibb.co/Yp3tnQW/Screen-Shot-2022-10-14-at-10-28-30-PM.png" alt="Screen-Shot-2022-10-14-at-10-28-30-PM" border="0"></a>
 
 
 
