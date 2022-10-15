@@ -15,23 +15,23 @@ This is a template for rapidly starting Next.js projects with built in component
 
 ## Instructions
 
--Start a new Next project following this template with your choice of package manager(yarn/npm/pnpm).
+1. Start a new Next project following this template with your choice of package manager(yarn/npm/pnpm).
 
---**PNPM (recommended) :** ``pnpm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
+-- **PNPM (recommended) :** ``pnpm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
 
---**NPM:** ``npm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
+-- **NPM:** ``npm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
 
---**Yarn:** ``yarn create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
+-- **Yarn:** ``yarn create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
 
 
--Change placeholder strings. If you CRTL-F "INSERT" you should see all the string that should be changed.
+2. Change placeholder strings. If you CRTL-F "INSERT" you should see all the string that should be changed.
 
---Ex. 
+-- Ex. 
 
         ``<<Link href="/INSERT_PAGE_PATH">INSERT_PAGE_NAME</Link>``
-        *should be changed to*
+        //should change to
         ``<Link href="/Home">/home</Link>``
         
---List of strings to change/remove: **INSERT_APP_NAME** (2x), **INSERT_PAGE_NAME** (4x), **INSERT_PAGE_PATH** (4x) in components/layout
+-- List of strings to change/remove: **INSERT_APP_NAME** (2x), **INSERT_PAGE_NAME** (4x), **INSERT_PAGE_PATH** (4x) in components/layout
 
--Delete the **INSERT_PAGE_PATH.tsx** page or use it as Page template and your project should be ready for your own code!
+3. Delete the **INSERT_PAGE_PATH.tsx** page or use it as Page template and your project should be ready for your own code!
