@@ -1,6 +1,6 @@
 # Next.js Starter Template with built in Layout components
 
-This is a template for rapidly starting Next.js TypeScript projects with built in components relating to page layouts. Inspired by [@clxmente's template](https://github.com/clxmente/next) with a few added dependencies + a components/layout folder that holds components including a Navbar and Footer as well as a general Layout component that wraps all the pages.
+This is a template for rapidly starting Next.js TypeScript projects with built in components relating to page layout. Inspired by [@clxmente's template](https://github.com/clxmente/next) with a few added dependencies + a components/layout folder that holds components including a Navbar and Footer as well as a general Layout component that wraps all the pages.
 
 ## What you'll get (a fully formatted page with a responsive navigation bar and footer)
 
@@ -42,7 +42,7 @@ This is a template for rapidly starting Next.js TypeScript projects with built i
         
         Should be changed to ⤵️
         
-        <Link href="/Home">home</Link>
+        <Link href="/home">Home</Link>
         
         List of strings to change/remove: **INSERT_APP_NAME** (2x), **INSERT_PAGE_NAME** (4x), **INSERT_PAGE_PATH** (4x) in components/layout
 
