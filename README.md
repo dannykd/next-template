@@ -24,7 +24,7 @@ This is a template for rapidly starting Next.js projects with built in component
 
 ## Instructions
 
-1. Start a new Next project following this template with your choice of package manager(yarn/npm/pnpm).
+1. Start a new Next project following this template with your choice of package manager (yarn/npm/pnpm).
 
        pnpm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template
 
@@ -44,4 +44,4 @@ This is a template for rapidly starting Next.js projects with built in component
         
         List of strings to change/remove: **INSERT_APP_NAME** (2x), **INSERT_PAGE_NAME** (4x), **INSERT_PAGE_PATH** (4x) in components/layout
 
-3. Delete the **INSERT_PAGE_PATH.tsx** page or use it as Page template and your project should be ready for your own code!
+3. Delete the **INSERT_PAGE_PATH.tsx** page or use it as a Page template and your project should be ready for your own code!
