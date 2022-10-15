@@ -4,6 +4,8 @@ This is a template for rapidly starting Next.js TypeScript projects with built i
 
 ## What you'll get (a fully formatted page with a responsive navigation bar and footer)
 
+[Here's the site this template will start off with.](https://next-template-dannykd.vercel.app/)
+
 <a href="https://ibb.co/RDbqcvQ"><img width=500 src="https://i.ibb.co/vjqSkwL/Screen-Shot-2022-10-14-at-10-53-00-PM.png" alt="Screen-Shot-2022-10-14-at-10-53-00-PM" border="0"></a>
 
 <a href="https://ibb.co/52TT559"><img width=300 src="https://i.ibb.co/Fn66BBW/Screen-Shot-2022-10-14-at-10-53-15-PM.png" alt="Screen-Shot-2022-10-14-at-10-53-15-PM" border="0"></a>
