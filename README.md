@@ -1,6 +1,6 @@
-# Next.js Starter Template with Layout components
+# Next.js Starter Template with built in Layout components
 
-This is a template for rapidly starting Next.js projects with built in components relating to page layouts. Inspired by [@clexmente's template](https://github.com/user/repo/blob/branch/other_file.md) with a few added dependencies + a components/layout folder that holds components including a Navbar and Footer components as well as a general Layout component that wraps all the pages.
+This is a template for rapidly starting Next.js projects with built in components relating to page layouts. Inspired by [@clexmente's template](https://github.com/clxmente/next) with a few added dependencies + a components/layout folder that holds components including a Navbar and Footer components as well as a general Layout component that wraps all the pages.
 
 ## What you'll get (a fully formatted page with a responsive navigation bar and footer)
 
