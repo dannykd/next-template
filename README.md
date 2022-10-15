@@ -1,6 +1,13 @@
 # Next.js Starter Template with Layout components
 
 This is a template for rapidly starting Next.js projects with built in components relating to page layouts. Inspired by [@clexmente's template](https://github.com/user/repo/blob/branch/other_file.md) with a few added dependencies + a components/layout folder that holds components including a Navbar and Footer components as well as a general Layout component that wraps all the pages.
+
+## What you'll get (a fully formatted page with a responsive navigation bar and footer)
+
+<a href="https://ibb.co/Gc0VYpJ"><img src="https://i.ibb.co/Yp3tnQW/Screen-Shot-2022-10-14-at-10-28-30-PM.png" alt="Screen-Shot-2022-10-14-at-10-28-30-PM" border="0"></a>
+
+
+
 ## Dependencies Included
 
 [Next.js](https://nextjs.org/)
@@ -31,7 +38,7 @@ This is a template for rapidly starting Next.js projects with built in component
         
         Should be changed to ⤵️
         
-        <Link href="/Home">/home</Link>
+        <Link href="/Home">home</Link>
         
         List of strings to change/remove: **INSERT_APP_NAME** (2x), **INSERT_PAGE_NAME** (4x), **INSERT_PAGE_PATH** (4x) in components/layout
 
