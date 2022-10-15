@@ -26,11 +26,11 @@ This is a template for rapidly starting Next.js projects with built in component
 
 1. Start a new Next project following this template with your choice of package manager(yarn/npm/pnpm).
 
-        **PNPM (recommended) :** ``pnpm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
+       pnpm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template
 
-        **NPM:** ``npm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
+       npm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template
 
-        **Yarn:** ``yarn create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template``
+       yarn create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template
 
 
 2. Change placeholder strings. If you CRTL-F "INSERT" you should see all the string that should be changed.
