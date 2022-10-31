@@ -18,7 +18,6 @@ const Home: NextPage = () => {
         neque vitae tempus quam pellentesque nec nam. Tristique senectus et
         netus et malesuada fames ac. Massa sed elementum tempus egestas.
       </p>
-      this is an extra thing
     </div>
   );
 };
