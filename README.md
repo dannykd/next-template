@@ -26,7 +26,7 @@ This is a template for rapidly starting Next.js TypeScript projects with built i
 
 ## Instructions
 
-1. Start a new Next project following this template with your choice of package manager (yarn/npm/pnpm).
+1. Start a new Next project following this template with your choice of package manager (yarn/npm/pnpm(recommended)).
 
        pnpm create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template
 
@@ -34,8 +34,11 @@ This is a template for rapidly starting Next.js TypeScript projects with built i
 
        yarn create next-app YOUR_PROJECT_NAME -e https://github.com/dannykd/next-template
 
+2. Install dependencies.
+       
+       pnpnm install
 
-2. Change placeholder strings. If you CRTL-F "INSERT" you should see all the string that should be changed.
+3. Change placeholder strings. If you CRTL-F "INSERT" you should see all the string that should be changed.
 
 
         <Link href="/INSERT_PAGE_PATH">INSERT_PAGE_NAME</Link> 
