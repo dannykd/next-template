@@ -36,7 +36,7 @@ This is a template for rapidly starting Next.js TypeScript projects with built i
 
 2. Install dependencies.
        
-       pnpnm install
+       pnpm install
 
 3. Change placeholder strings. If you CRTL-F "INSERT" you should see all the string that should be changed.
 
